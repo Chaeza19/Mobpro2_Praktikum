@@ -20,4 +20,6 @@ dependencyResolutionManagement {
 }
 
 rootProject.name = "Mobpro2"
-include(":app")
+include(":dosen")
+include(":mahasiswa")
+include(":mahasiswa")
